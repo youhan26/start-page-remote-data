@@ -1,0 +1,7 @@
+{
+  "testId": {
+    "key": "value",
+    "string": 1,
+    "number": false
+  }
+}
